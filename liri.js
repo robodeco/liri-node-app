@@ -97,3 +97,6 @@ spotify.search(spotParams, function(err, data) {
 if (nodeArgs[2] == 'spotify-this-song') {
     spotifyThis();
   };
+
+// ==========================Movie Functionality==========================
+//unfortunately i was unable to get to this. if i had more time i would look back at the omdb activity we previously completed in class and see about how to implement functionality that way.
